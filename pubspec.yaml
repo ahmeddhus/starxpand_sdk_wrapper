@@ -1,7 +1,7 @@
 name: starxpand_sdk_wrapper
 description: "A Flutter plugin that provides a simple interface to Star Micronics receipt printers using the official StarXpand SDK for Android and iOS."
 version: 1.0.3
-homepage: "https://github.com/orioletech/starxpand_sdk_wrapper"
+homepage: "https://github.com/pascaluntill/starxpand_sdk_wrapper"
 
 environment:
   sdk: ^3.9.2
